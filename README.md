@@ -1,2 +1,4 @@
-# oss_03_20251117
-오픈소스SW개론 3분반 실습(임시)
+```sh
+# sudo apt-get update
+# sudo apt-get install vim
+```
